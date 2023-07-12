@@ -5,8 +5,6 @@
 
 После регистрации все цены на сайте будут отображаться со скидкой до 15% автоматически.
 
-Добавляем кнопочку 
-
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd_-roASqslqJDaY_pRqPr0RPPezIvwWZHl02lUwv_tz4frSw/viewform?usp=sf_link">Заполни форму для регистрации</a>
 
 Если остались вопросы, ты всегда можешь связаться со мной
